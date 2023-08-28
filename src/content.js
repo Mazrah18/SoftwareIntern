@@ -84,7 +84,7 @@ const Maincontent = () => {
 <p style={{textAlign:'left', fontWeight:'bolder'}}>Summary</p>
         < div style={{textAlign:'left'}}>
             <p><img src="down.png" alt="" style={{transform: 'rotate(90deg)'}} />   <span style={{fontWeight:'bold'}}>Signups are slowing down.</span>  -5% new than last week.</p>
-            <p> <img src="upvote-sm.png" alt="" style={{transform: 'rotate(-90deg)', fontWeight:'bold'}} />   80% of your signups were invited by other members.</p>
+            <p> <img src="upvote-sm.png" alt="" style={{transform: 'rotate(-90deg)', fontWeight:'bold'}} />  <span style={{fontWeight:'bold'}}>80%</span> of your signups were invited by other members.</p>
             <p> <img src= "idea-16.png" alt="" /> <span style={{fontWeight:'bold'}}>80%</span> of your signups were invited by a friend </p>
             <p> <img src="idea-16.png" alt=""  /> <span style={{fontWeight:'bold'}}>80%</span> of your signups were invited by a friend. </p>
 
