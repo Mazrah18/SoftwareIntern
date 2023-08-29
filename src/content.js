@@ -81,7 +81,7 @@ const Maincontent = () => {
 </div>
 <div className="better">
 <div className="left">
-<p style={{textAlign:'left', fontWeight:'bolder'}}>Summary</p>
+<p style={{textAlign:'left', fontWeight:'bolder' , marginBottom : '-5px'}}>Summary</p>
         < div style={{textAlign:'left'}}>
             <p><img src="down.png" alt="" style={{transform: 'rotate(90deg)'}} />   <span style={{fontWeight:'bold'}}>Signups are slowing down.</span>  -5% new than last week.</p>
             <p> <img src="upvote-sm.png" alt="" style={{transform: 'rotate(-90deg)', fontWeight:'bold'}} />  <span style={{fontWeight:'bold'}}>80%</span> of your signups were invited by other members.</p>
@@ -93,7 +93,7 @@ const Maincontent = () => {
 
     <div className="recomm">
 
-        <p style={{fontWeight:'bolder'}}>Recommendations</p>
+        <p style={{fontWeight:'bolder', marginBottom : '-5px'}}>Recommendations</p>
         <p className="lolz">Make sure to promote and share your form</p>
         <p className="lolz">Congrats! This is huge. Keep giving rewards for your users.</p>
     </div>
